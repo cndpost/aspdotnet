@@ -199,10 +199,3 @@ Most of the materials are taken from https://asp.net
    
    
    
-   
-   
-   
-   
-   
-    "New ->Project; New ASP.NET Core Web Application; 
-
